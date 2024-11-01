@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/moelkama/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moelkama/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/moelkama/Leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/moelkama/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/moelkama/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/moelkama/Leetcode_solutions/tree/master/0067-add-binary) |
 ## Recursion
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/moelkama/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moelkama/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moelkama/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/moelkama/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/moelkama/Leetcode_solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/moelkama/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/moelkama/Leetcode_solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
